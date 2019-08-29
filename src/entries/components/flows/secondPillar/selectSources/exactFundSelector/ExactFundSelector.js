@@ -60,7 +60,7 @@ const ExactFundSelector = ({ selections, sourceFunds, targetFunds, onChange }) =
       <div className="col">
         <small>
           <a
-            href="www.pensionikeskus.ee/ii-sammas/fondid/fondide-tasud/jooksvate-tasude-vordlus/"
+            href="//www.pensionikeskus.ee/ii-sammas/fondid/fondide-tasud/jooksvate-tasude-vordlus/"
             target="_blank"
             rel="noopener noreferrer"
           >
